@@ -10,7 +10,6 @@ public class AleatorioEmple {
 	}
 
 	public static void leer() throws IOException {
-		System.out.println("Esto es una linea en el metodo leer()");
 		
 		
 		File fichero = new File("AleatorioEmple.dat");
